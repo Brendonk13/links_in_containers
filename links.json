@@ -1,0 +1,22 @@
+{
+    "brendondev": [
+        "https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#LoadBalancers:sort=loadBalancerName",
+        "https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:",
+        "https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#SecurityGroups:",
+        "https://us-east-1.console.aws.amazon.com/rds/home?region=us-east-1#",
+        "https://s3.console.aws.amazon.com/s3/buckets?region=us-east-1",
+        "https://us-east-1.console.aws.amazon.com/cloudfront/v3/home?region=us-east-1#/distributions",
+        "https://us-east-1.console.aws.amazon.com/route53/v2/home#Dashboard",
+        "https://us-east-1.console.aws.amazon.com/iamv2/home?region=us-east-1#/home"
+    ],
+    "general" : [
+        "https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#LoadBalancers:sort=loadBalancerName",
+        "https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:",
+        "https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#SecurityGroups:",
+        "https://us-east-1.console.aws.amazon.com/rds/home?region=us-east-1#",
+        "https://s3.console.aws.amazon.com/s3/buckets?region=us-east-1",
+        "https://us-east-1.console.aws.amazon.com/cloudfront/v3/home?region=us-east-1#/distributions",
+        "https://us-east-1.console.aws.amazon.com/route53/v2/home#Dashboard",
+        "https://us-east-1.console.aws.amazon.com/iamv2/home?region=us-east-1#/home"
+    ]
+}
